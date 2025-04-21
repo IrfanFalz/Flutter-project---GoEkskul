@@ -1,16 +1,10 @@
-# nama_project
+# Splash Screen Project Flutter 
 
-A new Flutter project.
+screen record dari splash screen aplikasi GoEkskul.
 
-## Getting Started
+## Demo Video
 
-This project is a starting point for a Flutter application.
+Berikut adalah video dari splash screen yang digunakan untuk aplikasi GoEkskul
 
-A few resources to get you started if this is your first Flutter project:
+- [Klik Untuk Menonton Video di Google Drive](https://drive.google.com/file/d/1IJyOHM3eXFnVmX65N2t1THx0dMtWJoSY/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
